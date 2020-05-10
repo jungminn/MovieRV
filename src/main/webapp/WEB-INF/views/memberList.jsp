@@ -8,7 +8,7 @@
 <title>Member</title>
 </head>
 <body>
-	<h1>게시판</h1>
+	<h1>FirstUpdateGitTest게시판</h1>
 	<table border="1">
 		<thead>
 			<tr>
